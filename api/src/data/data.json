@@ -1,0 +1,54 @@
+[
+   {
+        "id": 1,
+        "name": "Trinity",
+        "genre": "Drum and Bass",
+        "album": {
+          "id": 154,
+          "name": "Phantonym",
+          "release_date": "2019-09-13"
+          },
+        "artists": {
+          "name": "Alix Perez"
+        }
+      },
+      {
+        "id": 1,
+        "name": "Fiction",
+        "genre": "Drum and Bass",
+        "album": {
+          "id": 134,
+          "name": "How We Live",
+          "release_date": "2017-10-19"
+          },
+        "artists": {
+          "name": "Spectrasoul"
+        }
+      },
+      {
+        "id": 1,
+        "name": "Never Enough",
+        "genre": "Drum and Bass",
+        "album": {
+          "id": 168,
+          "name": "Golden Age",
+          "release_date": "2016-01-15"
+          },
+        "artists": {
+          "name": "Lenzman"
+        }
+      },
+      {
+        "id": 1,
+        "name": "One Exception",
+        "genre": "Drum and Bass",
+        "album": {
+          "id": 214,
+          "name": "Drum&BassArena 2019",
+          "release_date": "2019-10-16"
+          },
+        "artists": {
+          "name": "Dj Marky"
+        }
+      }
+]

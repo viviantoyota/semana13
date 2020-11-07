@@ -1,0 +1,19 @@
+{
+  "name": "semana13",
+  "version": "1.0.0",
+  "description": "exercicio 13",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/viviantoyota/semana13.git"
+  },
+  "author": "vivian toyota",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
